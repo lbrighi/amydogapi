@@ -1,5 +1,5 @@
 import unittest
-from AmyDogAPI import app
+from app import app
 
 class AmyDogTest(unittest.TestCase):
 
