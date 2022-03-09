@@ -14,7 +14,7 @@ Abra o CMD e execute os seguintes comandos na pasta do repositório:
 ## Execução:
 
 Abra o CMD e execute o seguinte comando na pasta do repositório:
-### `python AmyDogAPI.py` <br />
+### `python app.py` <br />
 
 Se tudo der certo, a API estará rodando neste endereço:
 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
@@ -22,4 +22,4 @@ Se tudo der certo, a API estará rodando neste endereço:
 ## Testes unitários:
 
 Abra o CMD e execute o seguinte comando na pasta do repositório:
-### `python AmyDogTest.py` <br />
+### `python tests.py` <br />
